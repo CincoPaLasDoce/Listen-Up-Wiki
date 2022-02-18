@@ -25,4 +25,4 @@
    
 <h2> Para más información</h2>
 
-Para conocer más sobre este proyecto, ingrese a [wiki U-Cord](https://github.com/CincoPaLasDoce/Listen-Up-Wiki/wiki)
+Para conocer más sobre este proyecto, ingrese a [wiki Listen-Up](https://github.com/CincoPaLasDoce/Listen-Up-Wiki/wiki)
